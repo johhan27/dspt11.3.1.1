@@ -10,7 +10,7 @@ from setuptools import setup
 
 
 setup(
-    name='dspt11_lambdata_johan_sanchez',  # Required
+    name='dspt11lambdatajohansanchez',  # Required
     version='0.0.1',  # Required
     author='DSPT11',  # Optional
     author_email='johan-sanchez@lambdastudents.com',  # Optional
