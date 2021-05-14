@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+lambdata_johan_sanchez.egg-info/PKG-INFO
+lambdata_johan_sanchez.egg-info/SOURCES.txt
+lambdata_johan_sanchez.egg-info/dependency_links.txt
+lambdata_johan_sanchez.egg-info/requires.txt
+lambdata_johan_sanchez.egg-info/top_level.txt
+mylambdata/__init__.py
+mylambdata/helper_functions.py
+mymodule/__init__.py
+mymodule/user.py
