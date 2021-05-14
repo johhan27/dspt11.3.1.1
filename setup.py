@@ -10,12 +10,12 @@ from setuptools import setup
 
 
 setup(
-    name='dspt11lambdatajohansanchez',  # Required
-    version='0.0.1',  # Required
+    name='lambdata_johan_sanchez',  # Required
+    version='0.0.2',  # Required
     author='DSPT11',  # Optional
     author_email='johan-sanchez@lambdastudents.com',  # Optional
     keywords='reddit',  # Optional
-    packages=['mymodule'],  # Required
+    packages=['mymodule', 'mylambdata'],  # Required
     python_requires='>=3.6, <4',
     install_requires=['pandas'],  # Optional
 )
